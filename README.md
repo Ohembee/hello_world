@@ -1,3 +1,3 @@
 # hello_world
-Learning out to use github
+Learning how to use github
 Print(Mustapha Olaokun) 
